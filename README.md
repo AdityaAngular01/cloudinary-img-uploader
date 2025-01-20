@@ -204,4 +204,3 @@ app.listen(PORT, () => {
 ```
 
 ---
-# cloudinary-img-uploader
