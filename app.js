@@ -28,6 +28,7 @@ class CloudinaryUploader {
 				},
 			});
 
+			
 			// Initialize the multer uploader
 			this.uploader = multer({ storage: this.storage });
 		}
