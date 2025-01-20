@@ -1,6 +1,6 @@
 {
   "name": "cloudinary-img-uploader",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Cloudinary Image Uploader is a lightweight and efficient npm package designed for seamless integration with Node.js and Express applications. It simplifies the process of uploading images to Cloudinary, a powerful media management platform. This package provides an intuitive API to handle file uploads, enabling developers to focus on building their applications instead of managing complex upload configurations.",
   "main": "app.js",
   "scripts": {
